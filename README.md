@@ -60,3 +60,25 @@ The application is designed for all travelers but is particularly beneficial for
     * Visual Studio Code
     * Git
     * GitHub
+
+### Competitor Research
+
+The inspiration for this app is a currently available app called NomadHer, it's for female travelers to share stories and travel tips, connect and chat with like-minded female travelers, find travel buddies that match their itinerary, etc..
+
+We decided for our application that we wanted to open it up for everyone not just females and although we thought the feature of sharing stories and travel tips publicly was great, we agreed that it was outside the scope of the project.
+
+TripBFF is another app for travelers which has many different features than ours but just comparing our similar features a big point of difference was that users can't search and filter by dates which is a big advantage for our app.
+
+* NomadHer
+    * For females.
+    * Users can share stories and travel tips.
+    * Users can connect and chat with others.
+    * Users can find travel buddies that match their itinerary.
+
+* TripBFF
+    * Users can join and create travel plans.
+    * Users can receive tips and advice.
+    * Users can discover destinations.
+    * Users can find nearby travelers.
+    * Users can track their travels.
+    * Users can plan their trips with AI.
