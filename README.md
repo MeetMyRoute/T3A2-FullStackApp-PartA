@@ -8,19 +8,19 @@ This application is designed to connect travelers with others who share similar 
 
 ### Functionality/Features
 
-* User profiles
+* User profiles:
     * Users create a profile where they share personal travel interests and bio information.
     * This profile is visible to others.
     * Users can set their profile status to "Not Traveling" when they are not currently on a trip.
 
-* Shared itinerary
+* Shared itinerary:
     * Users add upcoming travel plans by entering their destination(s) and travel dates.
 
-* Search and filtering
+* Search and filtering:
     * Users can explore the community by searching for travelers with overlapping itineraries.
     * The app will have filters such as destination and date.
 
-* Real-time chat and messaging
+* Real-time chat and messaging:
     * A built-in chat feature allows users to connect and discuss plans, ask questions, or arrange meetups.
 
 ### Target Audience
@@ -63,22 +63,27 @@ The application is designed for all travelers but is particularly beneficial for
 
 ### Competitor Research
 
-The inspiration for this app is a currently available app called NomadHer, it's for female travelers to share stories and travel tips, connect and chat with like-minded female travelers, find travel buddies that match their itinerary, etc..
-
-We decided for our application that we wanted to open it up for everyone not just females and although we thought the feature of sharing stories and travel tips publicly was great, we agreed that it was outside the scope of the project.
-
-TripBFF is another app for travelers which has many different features than ours but just comparing our similar features a big point of difference was that users can't search and filter by dates which is a big advantage for our app.
+We've identified two primary competitors in the travel companion space and took inpiration from: NomadHer and TripBFF.
 
 * NomadHer
-    * For females.
-    * Users can share stories and travel tips.
-    * Users can connect and chat with others.
-    * Users can find travel buddies that match their itinerary.
+    * Target audience - female travelers.
+    * Key features:
+        * Community-focused - sharing stories and tips.
+        * Social netowrking - connecting with like-minded individuals.
+        * Travel buddy matching - finding companions with similar itineraries.
+
+While we appreciated the community of NomadHer, we decided to make our app open to all travelers rather than focusing solely on one demographic. Additionally, although sharing stories and tips publicly is a valuable feature, we decided it was outside the scope of our project.
 
 * TripBFF
-    * Users can join and create travel plans.
-    * Users can receive tips and advice.
-    * Users can discover destinations.
-    * Users can find nearby travelers.
-    * Users can track their travels.
-    * Users can plan their trips with AI.
+    * Target audience - general travelers.
+    * Key features:
+        * Collaborative tip planning - creating and sharing itineraries.
+        * Travel tips and advice - accessing expert insights.
+        * Destination discovery - exploring new places.
+        * Nearby traveler discovery - connecting with local travelers.
+        * Travel tracking - monitoring progress and sharing experiences.
+        * AI-powered trip planning - leveraging AI for personalised recommendations.
+
+TripBFF, while it offers many features, one major differentiator is that TripBFF does not allow users to filter by travel dates, which our app will offer as a key advantage. This ability to search and filter by specific dates helps users find matches more precisely, making it easier to connect with others whose itineraries overlap.
+
+In terms of design, both NomadHer and TripBFF feature light, clean interfaces with a dominant colour. We aim to maintain this minimalist approach in our app's design. While blue is a common choice for travel apps, symbolising trust and freedom, we opted for sunset orange to evoke warmth, excitement, and the thrill of exploration, aligning with the core values of our app.
