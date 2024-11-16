@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # T3A2: Full Stack App (Part A)
 
 ## MeetMyRoute
