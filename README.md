@@ -94,6 +94,7 @@ In terms of design, both NomadHer and TripBFF feature light, clean interfaces wi
 ### User Stories 
 --- 
 
+![Jessica Turner](./docs/user1.png)  
 **Jessica Turner**
 
 **Role**: Photographer and Journalist  
@@ -129,6 +130,7 @@ Jessica has spent over a decade as a photographer and journalist, using her lens
   Meet My Route’s real-time messaging feature allows Jessica to arrange photography sessions and collaborate directly with travelers, eliminating the need for third-party communication tools.
 
 --- 
+![Josh Smith](./docs/user2.png)  
 **Josh Smith**
 
 **Role**: University Student  
@@ -238,8 +240,8 @@ So that I can plan my trips and connect with others who have similar travel goal
 
 ```md
 As Josh,
-I want to keep my travel plans organized in the platform’s itinerary feature,
-So that I can easily track my journeys and collaborate with other travelers.
+I want to organise my trips in the itinerary feature,
+So that I can easily keep track of my travel plans and control who can see them.
 ```
 
 **Acceptance Criteria**: 
