@@ -38,10 +38,10 @@ The application is designed for all travelers but is particularly beneficial for
 * Back-end
     * ExpressJS
     * NodeJS
+    * Mongoose
 
 * Database
     * MongoDB
-    * Mongoose
 
 * Deployment
     * Netlify - front-end
@@ -88,9 +88,8 @@ TripBFF, while it offers many features, one major differentiator is that TripBFF
 
 In terms of design, both NomadHer and TripBFF feature light, clean interfaces with a dominant colour. We aim to maintain this minimalist approach in our app's design. While blue is a common choice for travel apps, symbolising trust and freedom, we opted for sunset orange to evoke warmth, excitement, and the thrill of exploration, aligning with the core values of our app.
 
-
-
-
+### Dataflow Diagram
+![Dataflow Diagram](./docs/dataflow-diagram.png)
 
 ### User Stories 
 --- 
@@ -247,6 +246,7 @@ So that I can easily track my journeys and collaborate with other travelers.
 - Users should be able to group related trips or activities together for better organisation.
 - The app should allow users to toggle between a detailed list and a simplified view of their itinerary.
 - Itineraries should be customisable with privacy controls, giving users the option to make them public or private.
+
 
 
 
