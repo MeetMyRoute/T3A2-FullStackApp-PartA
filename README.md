@@ -169,7 +169,7 @@ I want to create a profile on the platform,
 So that I can establish myself as a blog writer and photographer, and attract potential collaborators.
 ```
 **Acceptance Criteria**: 
-- The profile creation form gathers basic information such name, location, travel preferences, and goals. 
+- The profile creation form should gather basic information such name, location, travel preferences, and goals. 
 - Users should be able to upload a profile picture.
 - Validation should be included in the form to guarantee that all required fields are filled out.
 - Users should be taken to their profile page to view and modify their information after submitting.
@@ -191,9 +191,9 @@ I want to connect with other travelers who have similar itineraries or interests
 So that I can collaborate with them for blog content and photography projects.
 ```
 **Acceptance Criteria**: 
-- The app should allow users to filter other travelers by destination, travel dates, and interests.
-- Direct messages or connection requests from users should be possible via the platform.
-- Jessica should receive notifications whenever a new connection request is approved or denied.
+- Users should be able to search for travelers with overlapping itineraries using filters like destination and travel dates.
+- The system should display traveler profiles that match the selected filters.
+- A user's profile should show their travel status (e.g., "Not Traveling") when updated, providing clarity to others.
 
 ```md
 As Josh,
@@ -201,9 +201,8 @@ I want to search for travelers who are heading to destinations I’m interested 
 So that I can join their adventures. 
 ``` 
 **Acceptance Criteria**: 
-- Users should be able to filter travelers by location and upcoming travel plans.
-- The system should show relevant profiles depending on search filters.
-- An integrated messaging feature should allow John to initiate a conversation or request a connection. 
+- Users should be able to bookmark or save profiles of interest for easy access later.
+- A view of overlapping itineraries should appear when browsing filtered traveler profiles, making it easier to identify compatibility.
 
 ## User Story 3: Messaging for Collaboration
 
@@ -223,7 +222,6 @@ So that I can discuss travel routes, find a travel buddy, and get recommendation
 - Users should be able to send files (documents, images, etc.) and view earlier chats.
 - The messaging interface should be user-friendly and easily accessible from the profile or traveler search results.
 - Users should receive notifications when they have new messages.
-- The app should have a secure messaging system with encrypted conversations.
 
 ## User Story 4: Itinerary Management
 
@@ -244,9 +242,11 @@ So that I can easily keep track of my travel plans and control who can see them.
 ```
 
 **Acceptance Criteria**: 
-- Users should be able to group related trips or activities together for better organisation.
+- Users should be able to enter and update travel dates, destinations, and activities at any time.
 - The app should allow users to toggle between a detailed list and a simplified view of their itinerary.
 - Itineraries should be customisable with privacy controls, giving users the option to make them public or private.
+
+
 
 
 
