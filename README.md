@@ -246,12 +246,19 @@ So that I can easily keep track of my travel plans and control who can see them.
 - The app should allow users to toggle between a detailed list and a simplified view of their itinerary.
 - Itineraries should be customisable with privacy controls, giving users the option to make them public or private.
 
+### Revision and Refinement:
 
+Following a review and discussion of the app's functionality, we decided to streamline the process by removing connection requests in favor of a simpler implementation. We believed the connection request feature would not support our goal of maintaining a clean interface and would introduce unnecessary complexity at this stage.
 
+As a result, we removed the following two points:
 
+- Direct messages or connection requests from users should be possible via the platform.
+- Users should receive notifications whenever a new connection request is approved or denied.
 
+We opted for the following refined feature:
+- Users should be able to send direct messages through the platform, opening in a separate window for a cleaner interface.
 
-
+By removing the need to handle connection requests, this change will enable users to interact more efficiently. 
 
 
 
