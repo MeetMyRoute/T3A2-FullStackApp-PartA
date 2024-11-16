@@ -235,8 +235,7 @@ So that I can plan my trips and connect with others who have similar travel goal
 
 **Acceptance Criteria**: 
 - Users should be able to enter dates, travel destinations, and key activities for every trip using the app. 
-- Users should be able to view their itinerary in either a detailed list or a simplified format.
-- Users should be able to update their itinerary details anytime, including adding or removing destinations.
+- It should be possible to update itinerary details at any time, including adding or removing destinations.
 
 ```md
 As Josh,
@@ -248,6 +247,7 @@ So that I can easily keep track of my travel plans and control who can see them.
 - Users should be able to group related trips or activities together for better organisation.
 - The app should allow users to toggle between a detailed list and a simplified view of their itinerary.
 - Itineraries should be customisable with privacy controls, giving users the option to make them public or private.
+
 
 
 
