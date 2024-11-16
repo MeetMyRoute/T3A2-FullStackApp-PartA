@@ -86,7 +86,10 @@ While we appreciated the community of NomadHer, we decided to make our app open 
 
 TripBFF, while it offers many features, one major differentiator is that TripBFF does not allow users to filter by travel dates, which our app will offer as a key advantage. This ability to search and filter by specific dates helps users find matches more precisely, making it easier to connect with others whose itineraries overlap.
 
-In terms of design, both NomadHer and TripBFF feature light, clean interfaces with a dominant colour. We aim to maintain this minimalist approach in our app's design. While blue is a common choice for travel apps, symbolising trust and freedom, we opted for sunset orange to evoke warmth, excitement, and the thrill of exploration, aligning with the core values of our app.### User Stories 
+In terms of design, both NomadHer and TripBFF feature light, clean interfaces with a dominant colour. We aim to maintain this minimalist approach in our app's design. While blue is a common choice for travel apps, symbolising trust and freedom, we opted for sunset orange to evoke warmth, excitement, and the thrill of exploration, aligning with the core values of our app.
+
+
+### User Stories 
 --- 
 
 **Jessica Turner**
@@ -112,19 +115,13 @@ Jessica has spent over a decade as a photographer and journalist, using her lens
 - Time Constraints:  
   With frequent travels, Jessica needs quick and efficient solutions to identify potential blog collaborators without investing too much time.
 
-**Tech Skills**:
-Jessica is comfortable with tools for editing (Photoshop, Lightroom) and content creation (WordPress, social media platforms). While she wouldn’t call herself a tech expert, Jessica is adaptable and eager to learn new platforms that can help her connect with fellow travellers and expand the reach of her blog.
-
 ---
-**Why MeetMyRoute**: 
-- Streamlined Connections:  
-  Meet My Route helps Jessica easily find travelers who match her niche and interests, allowing her to connect for interviews and collaborations without hassle.
+**Why MeetMyRoute**:  
+- Familiar Interface:  
+  Jessica downloaded MeetMyRoute because its interface reminded her of the dating apps she already uses, making it easy and familiar for her to navigate. 
 
 - Simple Search & Discovery:  
   The app’s search functionality lets Jessica filter travelers by destination, travel dates, and interests, making it easier to find the perfect subjects for her blog and photography projects.
-
-- Diverse Perspectives:  
-  The platform encourages Jessica to engage with travelers who have unique experiences, enriching her content and offering fresh perspectives to her audience.
 
 - Simplified Communication:  
   Meet My Route’s real-time messaging feature allows Jessica to arrange photography sessions and collaborate directly with travelers, eliminating the need for third-party communication tools.
@@ -150,18 +147,116 @@ Josh has recently taken a gap year from university to explore the world before r
 - Overwhelmed by Complex Apps:  
   Josh dislikes apps that are hard to navigate or have too many unnecessary features. He needs something easy to use without spending too much time figuring out how to operate it.
 
-**Tech Skills**:
-Josh is not particularly an expert at using specialised applications or services, but he is familiar with social media sites and technological tools that assist travellers. Although he feels at ease using digital platforms, he favours straightforward, approachable solutions.
-
 **Why MeetMyRoute**: 
-- Real-Time Messaging:    
-  The app allows Josh to chat with fellow travelers directly through secure messaging, enabling him to discuss plans, share tips, or arrange meetups with peace of mind about the people he’s meeting. 
+- Recommended by a Friend:    
+  Josh discovered the app through a recommendation from someone he met at a bike store. 
 
 - User-Friendly Interface:   
-  Josh can create a profile and plan his trip with MeetMyRoute’s simple, user-friendly layout, establishing his goals for the trip. Without overloading him with complicated features or technology, the software facilitates his social connections. 
+  Josh can create a profile and plan his trip with MeetMyRoute’s simple, user-friendly layout, establishing his goals for the trip. The app allows him to easily connect with other travelers, without overwhelming him with complex features.
 
 - Curated Itineraries with Like-Minded Travelers:  
   Josh finds other travellers who have similar hobbies and travel intentions thanks to MeetMyRoute. This makes it simple for him to find undiscovered treasures and distinctive experiences that suit his preferences.
+
+--- 
+## User Story 1: Profile Creation
+```md 
+As Jessica,
+I want to create a profile on the platform,
+So that I can establish myself as a blog writer and photographer, and attract potential collaborators.
+```
+**Acceptance Criteria**: 
+- The profile creation form gathers basic information such name, location, travel preferences, and goals. 
+- Users should be able to upload a profile picture.
+- Validation should be included in the form to guarantee that all required fields are filled out.
+- Users should be taken to their profile page to view and modify their information after submitting.
+
+```md
+As Josh,
+I want to create a profile on the platform,
+So that I can share my travel experiences, interests, and connect with travelers nearby. 
+```
+**Acceptance Criteria**: 
+- For broader networking, users should be able to link their social media profiles on the form.
+- Before submitting, users should be able to view their profiles on the system.
+- The profile is active after submission, and the user may update their details at any time.
+
+## User Story 2: Connecting with Other Travelers
+```md
+As Jessica,
+I want to connect with other travelers who have similar itineraries or interests,
+So that I can collaborate with them for blog content and photography projects.
+```
+**Acceptance Criteria**: 
+- The app should allow users to filter other travelers by destination, travel dates, and interests.
+- Direct messages or connection requests from users should be possible via the platform.
+- Jessica should receive notifications whenever a new connection request is approved or denied.
+
+```md
+As Josh,
+I want to search for travelers who are heading to destinations I’m interested in,
+So that I can join their adventures. 
+``` 
+**Acceptance Criteria**: 
+- Users should be able to filter travelers by location and upcoming travel plans.
+- The system should show relevant profiles depending on search filters.
+- An integrated messaging feature should allow John to initiate a conversation or request a connection. 
+
+## User Story 3: Messaging for Collaboration
+
+```md
+As Jessica,
+I want to communicate directly with fellow travelers through the platform’s messaging feature,
+So that I can arrange collaborations for interviews and photography sessions without needing third-party apps
+```
+
+```md
+As Josh,
+I want to communicate with other travelers directly through the platform,
+So that I can discuss travel routes, find a travel buddy, and get recommendations for affordable places to stay.
+```
+
+**Acceptance Criteria**: 
+- Users should be able to send files (documents, images, etc.) and view earlier chats.
+- The messaging interface should be user-friendly and easily accessible from the profile or traveler search results.
+- Users should receive notifications when they have new messages.
+- The app should have a secure messaging system with encrypted conversations.
+
+## User Story 4: Itinerary Management
+
+```md
+As Jessica,
+I want to create and manage my travel itinerary on the platform,
+So that I can plan my trips and connect with others who have similar travel goals.
+```
+
+**Acceptance Criteria**: 
+- Users should be able to enter dates, travel destinations, and key activities for every trip using the app. 
+- Users should be able to view their itinerary in either a detailed list or a simplified format.
+- Users should be able to update their itinerary details anytime, including adding or removing destinations.
+
+```md
+As Josh,
+I want to keep my travel plans organized in the platform’s itinerary feature,
+So that I can easily track my journeys and collaborate with other travelers.
+```
+
+**Acceptance Criteria**: 
+- Users should be able to group related trips or activities together for better organisation.
+- The app should allow users to toggle between a detailed list and a simplified view of their itinerary.
+- Itineraries should be customisable with privacy controls, giving users the option to make them public or private.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
