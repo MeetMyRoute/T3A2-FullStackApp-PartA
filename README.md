@@ -89,6 +89,9 @@ TripBFF, while it offers many features, one major differentiator is that TripBFF
 In terms of design, both NomadHer and TripBFF feature light, clean interfaces with a dominant colour. We aim to maintain this minimalist approach in our app's design. While blue is a common choice for travel apps, symbolising trust and freedom, we opted for sunset orange to evoke warmth, excitement, and the thrill of exploration, aligning with the core values of our app.
 
 
+
+
+
 ### User Stories 
 --- 
 
