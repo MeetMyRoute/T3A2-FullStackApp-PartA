@@ -38,10 +38,10 @@ The application is designed for all travelers but is particularly beneficial for
 * Back-end
     * ExpressJS
     * NodeJS
+    * Mongoose
 
 * Database
     * MongoDB
-    * Mongoose
 
 * Deployment
     * Netlify - front-end
