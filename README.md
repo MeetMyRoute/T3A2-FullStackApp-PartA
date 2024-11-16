@@ -220,7 +220,7 @@ So that I can discuss travel routes, find a travel buddy, and get recommendation
 
 **Acceptance Criteria**: 
 - Users should be able to send files (documents, images, etc.) and view earlier chats.
-- The messaging interface should be user-friendly and easily accessible from the profile or traveler search results.
+- Users should be able to send direct messages through the platform, opening in a separate window for a cleaner interface.
 - Users should receive notifications when they have new messages.
 
 ## User Story 4: Itinerary Management
