@@ -187,7 +187,7 @@ So that I can share my travel experiences, interests, and connect with travelers
 ## User Story 2: Connecting with Other Travelers
 ```md
 As Jessica,
-I want to connect with other travelers who have similar itineraries or interests,
+I want to connect with other travelers who have similar itineraries,
 So that I can collaborate with them for blog content and photography projects.
 ```
 **Acceptance Criteria**: 
@@ -201,7 +201,7 @@ I want to search for travelers who are heading to destinations I’m interested 
 So that I can join their adventures. 
 ``` 
 **Acceptance Criteria**: 
-- A view of overlapping itineraries should appear when browsing filtered traveler profiles, making it easier to identify compatibility.
+- Users should be able to use a search bar to find travelers. 
 
 ## User Story 3: Messaging for Collaboration
 
@@ -232,7 +232,7 @@ So that I can plan my trips and connect with others who have similar travel goal
 
 **Acceptance Criteria**: 
 - Users should be able to enter dates, travel destinations, and key activities for every trip using the app. 
-- Users should be able to customise their itineraries by adding or removing destinations and activities. 
+- Users should be able to customise their itineraries by adding or removing destinations and dates. 
 
 ```md
 As Josh,
