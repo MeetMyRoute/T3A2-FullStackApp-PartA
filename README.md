@@ -11,10 +11,11 @@ This application is designed to connect travelers with others who share similar 
 * User profiles:
     * Users create a profile where they share personal travel interests and bio information.
     * This profile is visible to others.
-    * Users can set their profile status to "Not Traveling" when they are not currently on a trip.
+    * Users can set their profile status to either "Private", "Traveling", or "Local".
 
-* Shared itinerary:
-    * Users add upcoming travel plans by entering their destination(s) and travel dates.
+* Shared and private itinerary:
+    * Users share upcoming travel plans by entering their destination(s), travel dates.
+    * Users add activities that are not shared publicly.
 
 * Search and filtering:
     * Users can explore the community by searching for travelers with overlapping itineraries.
@@ -33,11 +34,11 @@ The application is designed for all travelers but is particularly beneficial for
     * HTML
     * CSS
     * Javascript
-    * ReactJS
+    * React
 
 * Back-end
-    * ExpressJS
-    * NodeJS
+    * Express
+    * Node.js
     * Mongoose
 
 * Database
