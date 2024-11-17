@@ -243,7 +243,6 @@ So that I can easily keep track of my travel plans and control who can see them.
 **Acceptance Criteria**: 
 - Users should be able to update specific travel dates and times for planned destinations. 
 - The app should allow users to toggle between a detailed list and a simplified view of their itinerary.
-- Itineraries should be customisable with privacy controls, giving users the option to make them public or private.
 
 ### Revision and Refinement:
 
