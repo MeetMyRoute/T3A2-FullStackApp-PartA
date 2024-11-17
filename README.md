@@ -14,7 +14,7 @@ This application is designed to connect travelers with others who share similar 
     * Users can set their profile status to either "Private", "Traveling", or "Local".
 
 * Shared and private itinerary:
-    * Users share upcoming travel plans by entering their destination(s), travel dates.
+    * Users share upcoming travel plans by entering their destination(s) and travel dates.
     * Users add activities that are not shared publicly.
 
 * Search and filtering:
