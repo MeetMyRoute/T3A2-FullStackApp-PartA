@@ -201,7 +201,6 @@ I want to search for travelers who are heading to destinations I’m interested 
 So that I can join their adventures. 
 ``` 
 **Acceptance Criteria**: 
-- Users should be able to bookmark or save profiles of interest for easy access later.
 - A view of overlapping itineraries should appear when browsing filtered traveler profiles, making it easier to identify compatibility.
 
 ## User Story 3: Messaging for Collaboration
@@ -233,7 +232,7 @@ So that I can plan my trips and connect with others who have similar travel goal
 
 **Acceptance Criteria**: 
 - Users should be able to enter dates, travel destinations, and key activities for every trip using the app. 
-- It should be possible to update itinerary details at any time, including adding or removing destinations.
+- Users should be able to customise their itineraries by adding or removing destinations and activities. 
 
 ```md
 As Josh,
@@ -242,7 +241,7 @@ So that I can easily keep track of my travel plans and control who can see them.
 ```
 
 **Acceptance Criteria**: 
-- Users should be able to enter and update travel dates, destinations, and activities at any time.
+- Users should be able to update specific travel dates and times for planned destinations. 
 - The app should allow users to toggle between a detailed list and a simplified view of their itinerary.
 - Itineraries should be customisable with privacy controls, giving users the option to make them public or private.
 
