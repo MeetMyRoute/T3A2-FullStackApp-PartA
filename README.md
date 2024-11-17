@@ -193,7 +193,6 @@ So that I can collaborate with them for blog content and photography projects.
 **Acceptance Criteria**: 
 - Users should be able to search for travelers with overlapping itineraries using filters like destination and travel dates.
 - The system should display traveler profiles that match the selected filters.
-- A user's profile should show their travel status (e.g., "Not Traveling") when updated, providing clarity to others.
 
 ```md
 As Josh,
@@ -202,13 +201,14 @@ So that I can join their adventures.
 ``` 
 **Acceptance Criteria**: 
 - Users should be able to use a search bar to find travelers. 
+- After searching for travelers, users should be able to view the profile status of each traveler (e.g., 'Travelling,' 'Local,' or 'Private') to understand who is currently traveling. 
 
 ## User Story 3: Messaging for Collaboration
 
 ```md
 As Jessica,
 I want to communicate directly with fellow travelers through the platform’s messaging feature,
-So that I can arrange collaborations for interviews and photography sessions without needing third-party apps
+So that I can arrange collaborations for interviews and photography sessions without needing third-party apps. 
 ```
 
 ```md
@@ -220,7 +220,7 @@ So that I can discuss travel routes, find a travel buddy, and get recommendation
 **Acceptance Criteria**: 
 - Users should be able to send files (documents, images, etc.) and view earlier chats.
 - Users should be able to send direct messages through the platform, opening in a separate window for a cleaner interface.
-- Users should receive notifications when they have new messages.
+- Notifications should be sent to users when they receive messages.
 
 ## User Story 4: Itinerary Management
 
@@ -231,8 +231,8 @@ So that I can plan my trips and connect with others who have similar travel goal
 ```
 
 **Acceptance Criteria**: 
-- Users should be able to enter dates, travel destinations, and key activities for every trip using the app. 
-- Users should be able to customise their itineraries by adding or removing destinations and dates. 
+- Users should be able to enter dates, travel destinations, and key activities for each trip using the app. 
+- Itineraries should be customisable by adding or removing destinations, dates, and activities.
 
 ```md
 As Josh,
@@ -242,21 +242,18 @@ So that I can easily keep track of my travel plans and control who can see them.
 
 **Acceptance Criteria**: 
 - Users should be able to update specific travel dates and times for planned destinations. 
-- The app should allow users to toggle between a detailed list and a simplified view of their itinerary.
+- Users should be able to toggle between a detailed itinerary (dates, destinations, activities) and a simplified itinerary (dates, destinations), and share/view other's simplified itineraries.
 
 ### Revision and Refinement:
 
-Following a review and discussion of the app's functionality, we decided to streamline the process by removing connection requests in favor of a simpler implementation. We believed the connection request feature would not support our goal of maintaining a clean interface and would introduce unnecessary complexity at this stage.
+After engaging with users, we identified privacy concerns regarding the public sharing of detailed itinerary information. While users were open to sharing relevant details, they expressed the need for greater control over what components of their itinerary are visible to others.
+Initially, we considered incorporating a toggle feature to allow users to switch between a detailed list and a simplified view of their itinerary for a more flexible experience. However, following user feedback, we recognised the importance of addressing concerns about sharing additional information, such as activities, publicly. This feedback reinforced the need to give users more discretion over the visibility of their itinerary details.
 
-As a result, we removed the following two points:
+Based on this input, we have decided to implement the following:
+- The simplified itinerary view, which includes only dates and destinations, will be publicly shareable.
+- The detailed itinerary, containing more comprehensive information, will be private to the user. 
 
-- Direct messages or connection requests from users should be possible via the platform.
-- Users should receive notifications whenever a new connection request is approved or denied.
-
-We opted for the following refined feature:
-- Users should be able to send direct messages through the platform, opening in a separate window for a cleaner interface.
-
-By removing the need to handle connection requests, this change will enable users to interact more efficiently. 
+Users can securely share additional details, including accommodations, through direct messages, ensuring their privacy concerns are addressed. 
 
 
 
