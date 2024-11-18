@@ -166,7 +166,7 @@ Josh has recently taken a gap year from university to explore the world before r
 ## User Story 1: Profile Creation
 ```md 
 As Jessica,
-I want to create a profile on the platform,
+I want to create a profile on the app, 
 So that I can establish myself as a blog writer and photographer, and attract potential collaborators.
 ```
 **Acceptance Criteria**: 
@@ -176,9 +176,9 @@ So that I can establish myself as a blog writer and photographer, and attract po
 - Users should be taken to their profile page to view and modify their information after submitting.
 
 ```md
-As Josh,
-I want to create a profile on the platform,
-So that I can share my travel experiences, interests, and connect with travelers nearby. 
+As Josh,  
+I want to create a profile on the app,  
+So that I can establish myself as an emerging traveler and seek insights from more experienced travelers. 
 ```
 **Acceptance Criteria**: 
 - For broader networking, users should be able to link their social media profiles on the form.
@@ -208,13 +208,13 @@ So that I can join their adventures.
 
 ```md
 As Jessica,
-I want to communicate directly with fellow travelers through the platform’s messaging feature,
+I want to communicate directly with fellow travelers through the app's messaging feature,
 So that I can arrange collaborations for interviews and photography sessions without needing third-party apps. 
 ```
 
 ```md
 As Josh,
-I want to communicate with other travelers directly through the platform,
+I want to communicate with other travelers directly through the app,
 So that I can discuss travel routes, find a travel buddy, and get recommendations for affordable places to stay.
 ```
 
@@ -227,7 +227,7 @@ So that I can discuss travel routes, find a travel buddy, and get recommendation
 
 ```md
 As Jessica,
-I want to create and manage my travel itinerary on the platform,
+I want to create and manage my travel itinerary on the app,
 So that I can plan my trips and connect with others who have similar travel goals.
 ```
 
