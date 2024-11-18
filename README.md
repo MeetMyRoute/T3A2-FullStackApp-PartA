@@ -122,10 +122,10 @@ Jessica has spent over a decade as a photographer and journalist, using her lens
 ---
 **Why MeetMyRoute**:  
 - Familiar Interface:  
-  Jessica downloaded MeetMyRoute because its interface reminded her of the dating apps she already uses, making it easy and familiar for her to navigate. 
+  Jessica downloaded MeetMyRoute because its interface reminded her of the dating apps she was already familiar with, making it both easy and intuitive to navigate.
 
 - Simple Search & Discovery:  
-  The app’s search functionality lets Jessica filter travelers by destination, travel dates, and interests, making it easier to find the perfect subjects for her blog and photography projects.
+  The app’s search functionality lets Jessica filter travelers by destination and travel dates, making it easier to find the perfect subjects for her blog and photography projects.
 
 - Simplified Communication:  
   Meet My Route’s real-time messaging feature allows Jessica to arrange photography sessions and collaborate directly with travelers, eliminating the need for third-party communication tools.
