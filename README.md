@@ -91,3 +91,6 @@ In terms of design, both NomadHer and TripBFF feature light, clean interfaces wi
 
 ### Dataflow Diagram
 ![Dataflow Diagram](./docs/dataflow-diagram.png)
+
+### Application Architecture Diagram
+![Application Architecture Diagram](./docs/application-architecture-diagram.png)
