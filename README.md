@@ -92,6 +92,9 @@ In terms of design, both NomadHer and TripBFF feature light, clean interfaces wi
 ### Dataflow Diagram
 ![Dataflow Diagram](./docs/dataflow-diagram.png)
 
+### Application Architecture Diagram
+![Application Architecture Diagram](./docs/application-architecture-diagram.png)
+
 ### User Stories 
 --- 
 
@@ -255,18 +258,4 @@ Based on this input, we have decided to implement the following:
 - The detailed itinerary, containing more comprehensive information, will be private to the user. 
 
 Users can securely share additional details, including accommodations, through direct messages, ensuring their privacy concerns are addressed. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
