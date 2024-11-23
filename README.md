@@ -15,7 +15,7 @@ This application is designed to connect travelers with others who share similar 
 
 * Shared and private itinerary:
     * Users share upcoming travel plans by entering their destination(s) and travel dates.
-    * Users add activities that are not shared publicly.
+    * Users add other trip information that are not shared publicly.
 
 * Search and filtering:
     * Users can explore the community by searching for travelers with overlapping itineraries.
@@ -45,8 +45,8 @@ The application is designed for all travelers but is particularly beneficial for
     * MongoDB
 
 * Deployment
-    * Netlify - front-end
-    * Render - back-end
+    * Netlify - front end
+    * Render - back end
 
 * Project Management
     * Trello
@@ -70,7 +70,7 @@ We've identified two primary competitors in the travel companion space and took 
     * Target audience - female travelers.
     * Key features:
         * Community-focused - sharing stories and tips.
-        * Social netowrking - connecting with like-minded individuals.
+        * Social networking - connecting with like-minded individuals.
         * Travel buddy matching - finding companions with similar itineraries.
 
 While we appreciated the community of NomadHer, we decided to make our app open to all travelers rather than focusing solely on one demographic. Additionally, although sharing stories and tips publicly is a valuable feature, we decided it was outside the scope of our project.
@@ -78,7 +78,7 @@ While we appreciated the community of NomadHer, we decided to make our app open 
 * TripBFF
     * Target audience - general travelers.
     * Key features:
-        * Collaborative tip planning - creating and sharing itineraries.
+        * Collaborative trip planning - creating and sharing itineraries.
         * Travel tips and advice - accessing expert insights.
         * Destination discovery - exploring new places.
         * Nearby traveler discovery - connecting with local travelers.
