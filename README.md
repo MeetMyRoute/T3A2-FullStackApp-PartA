@@ -259,3 +259,21 @@ Based on this input, we have decided to implement the following:
 
 Users can securely share additional details, including accommodations, through direct messages, ensuring their privacy concerns are addressed. 
 
+### Wireframes
+
+#### Desktop View
+![Desktop View](./docs/desktop-view-1.png)
+![Desktop View](./docs/desktop-view-2.png)
+![Desktop View](./docs/desktop-view-3.png)
+![Desktop View](./docs/desktop-view-4.png)
+
+#### Tablet View
+![Tablet View](./docs/tablet-view-1.png)
+![Tablet View](./docs/tablet-view-2.png)
+![Tablet View](./docs/tablet-view-3.png)
+
+#### Mobile View
+![Mobile View](./docs/mobile-view-1.png)
+![Mobile View](./docs/mobile-view-2.png)
+
+#### Overview
