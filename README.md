@@ -313,3 +313,36 @@ The wireframes developed for this application represent three standard sizes: De
   * This page allows users to search for other users based on destination, travel dates and status.
   * The layout is responsive - on desktop view, the filters and results are displayed in a three-column format, while on tablet view, the layout switches to a two-column format and on mobile view, the layout switches to a single-column layout.
   * The View Profile button redirects user to the Profile page.
+
+### Tracking Progress - Trello Board
+
+<details>
+<summary>Screenshots</summary>
+
+#### 12.11.24
+![Trello Screenshot](./docs/trello-12.11.png)
+
+#### 13.11.24
+![Trello Screenshot](./docs/trello-13.11.png)
+
+#### 14.11.24
+![Trello Screenshot](./docs/trello-14.11.png)
+
+#### 15.11.24
+![Trello Screenshot](./docs/trello-15.11.png)
+
+#### 17.11.24
+![Trello Screenshot](./docs/trello-17.11.png)
+
+#### 18.11.24
+![Trello Screenshot](./docs/trello-18.11.png)
+
+#### 20.11.24
+![Trello Screenshot](./docs/trello-20.11.png)
+
+#### 24.11.24
+![Trello Screenshot](./docs/trello-24.11.png)
+![Trello Screenshot](./docs/trello-24.11-2.png)
+![Trello Screenshot](./docs/trello-24.11-3.png)
+
+</details>
