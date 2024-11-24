@@ -259,3 +259,57 @@ Based on this input, we have decided to implement the following:
 
 Users can securely share additional details, including accommodations, through direct messages, ensuring their privacy concerns are addressed. 
 
+### Wireframes
+
+#### Desktop View
+![Desktop View](./docs/desktop-view.png)
+
+#### Tablet View
+![Tablet View](./docs/tablet-view.png)
+
+#### Mobile View
+![Mobile View](./docs/mobile-view.png)
+
+#### Overview
+The wireframes developed for this application represent three standard sizes: Desktop, Tablet and Mobile View.
+
+* Home Page
+  * This page introduces the app.
+  * The layout is responsive - on desktop view, the text is positioned to the left and the image is positioned to the right, while on tablet and mobile view, the layout switches to a single-column layout.
+  * The Login and Sign Up buttons redirects the user to the Login and Sign Up page respectively.
+
+* Sign Up Page
+  * This page allows new users to register for the app.
+  * The layout is response - on desktop view, the email and password fields are positioned to the left and the name. location, status (dropdown), travel preferences and goals and link to social media fields are positioned to the right, while on tablet and mobile view, the layout switches to a single-column layout.
+  * The Sign Up button redirects the user to the Profile page once registration is completed and the Login button redirects the user to the Login page.
+
+* Login Page
+  * This page allows returning users to log into the app.
+  * The layout is consistent across all screen sizes.
+  * The Login button redirects the user to the Profile page once the user has logged in successfully and the Sign Up button redirects the user to the Sign Up page.
+
+* Profile Page
+  * This page allows users to view and manage their own profile, with a similar layout when viewing other viewing other users' profile.
+  * The layout is responsive - on desktop view, the profile information is displayed in a two-column format and is split with name, location, profile picture and status positioned on the left and the remaining fields on the right, while on tablet and mobile view, the layout switches to a single=column format and the navbar (on this page and all following pages) is condensed into a sidebar to maximise on spacing.
+  * The Edit Profile button is shown when viewing the user's own profile and changes to a Message button when viewing another user's profile.
+  * The Message button redircts the user to the Message page.
+
+* Itinerary Page (View List)
+  * This page allows users to view and manage their itinerary lists.
+  * The layout is responsive - on desktop view, the itinerary sections are displayed in a two-column format, while on tablet and mobile view, the layout switches to a single-column format.
+  * The Edit Itinerary button will redirect the user to the Itinerary (Add/Edit New Itinerary) page.
+
+* Itinerary Page (Add/Edit New Itinerary)
+  * The page allows users to add a new or edit an existing itinerary.
+  * The Submit button is shown when adding a new itinerary and changes to an Update button when editing an existing itinerary.
+  * The layout is consistent across all screen sizes.
+  * The Submit and Update button redirects the user to the Itinerary (View List) page.
+
+* Message Page
+  * This page allows users to view, send and delete messages.
+  * The layout is responsive - on desktop view, the messages are displayed in a two-column format with the list of conversations (the other user's name displayed) on the left and selected conversation messages on the right, while on tablet and mobile view, the layout switches to a single-column format with the selected conversation showing a sidebar to allow users to go back and view the conversations list.
+
+* Search Page
+  * This page allows users to search for other users based on destination, travel dates and status.
+  * The layout is responsive - on desktop view, the filters and results are displayed in a three-column format, while on tablet view, the layout switches to a two-column format and on mobile view, the layout switches to a single-column layout.
+  * The View Profile button redirects user to the Profile page.
