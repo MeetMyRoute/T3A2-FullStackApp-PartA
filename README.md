@@ -313,3 +313,42 @@ The wireframes developed for this application represent three standard sizes: De
   * This page allows users to search for other users based on destination, travel dates and status.
   * The layout is responsive - on desktop view, the filters and results are displayed in a three-column format, while on tablet view, the layout switches to a two-column format and on mobile view, the layout switches to a single-column layout.
   * The View Profile button redirects user to the Profile page.
+
+### Trello Board
+
+We utilised a Trello board to effectively track our progress throughout the project. Tasks necessary to complete this part of the assignment were added to the board and assigned based on individual preferences and areas of interest.
+
+During the project, we leveraged Trello's built-in features, such as due dates and checklists, to stay organised and maintain steady progress. These tools helped us break down the work into manageable pieces and monitor our workflow efficiently.
+
+We adopted an Agile methodoloty to ensure iterative improvement and collaboration. This approach is evident in screenshots dated 14.11.24, 15.11.24, and 17.11.24, where the card Part A: Description of the Website was reviewed after its initial development, refined through subsequenet iterations, and finally approved upon completion. This iterative procress allowed us to adapt and improve the deliverable based on feedback and evolving requirements.
+
+<details>
+<summary>Screenshots</summary>
+
+#### 12.11.24
+![Trello Screenshot](./docs/trello-12.11.png)
+
+#### 13.11.24
+![Trello Screenshot](./docs/trello-13.11.png)
+
+#### 14.11.24
+![Trello Screenshot](./docs/trello-14.11.png)
+
+#### 15.11.24
+![Trello Screenshot](./docs/trello-15.11.png)
+
+#### 17.11.24
+![Trello Screenshot](./docs/trello-17.11.png)
+
+#### 18.11.24
+![Trello Screenshot](./docs/trello-18.11.png)
+
+#### 20.11.24
+![Trello Screenshot](./docs/trello-20.11.png)
+
+#### 24.11.24
+![Trello Screenshot](./docs/trello-24.11.png)
+![Trello Screenshot](./docs/trello-24.11-2.png)
+![Trello Screenshot](./docs/trello-24.11-3.png)
+
+</details>
